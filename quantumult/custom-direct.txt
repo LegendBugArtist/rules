@@ -14,3 +14,4 @@ host-suffix,mob.com,direct
 host,injections.adguard.org,direct
 host-suffix,jd.com,direct
 host-keyword,360hu,direct
+host-keyword,rustdesk,direct
